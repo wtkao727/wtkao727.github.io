@@ -3,7 +3,7 @@ main:
   - title: Descartes' rule of signs for finite fields
     authors: Gary Fishman
     notes: in preparation
-    image: ./assets/img/teaser_example.png
+    # image: ./assets/img/teaser_example.png
 
   - title: Vector encoding of phylogenetic trees by ordered leaf attachment
     authors: Harry Richman, Cheng Zhang, Erick Matsen
