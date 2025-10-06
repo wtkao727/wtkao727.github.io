@@ -54,6 +54,8 @@ when $X$ is an algebraic curve.
 - [Math 115](https://dept.math.lsa.umich.edu/courses/115/), Calculus 1, Fall 2019
 - [Math 208](https://sites.math.washington.edu/~m208/), Linear Algebra, Fall 2020
 
+<!--
+
 ## Service
 
 #### Organizer 
@@ -85,3 +87,6 @@ end
 - Markdown for a math quote:
 > God is always doing geometry  
 > -- Plato
+
+--!>
+
