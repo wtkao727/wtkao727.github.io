@@ -11,11 +11,12 @@ I am currently a postdoctoral researcher at the Institute of Mathematics, Academ
 I received my Ph.D. in Mathematics from National Taiwan University (NTU), where I was advised by Professor Jih-Hsin Cheng and Professor I-Hsun Tsai.
 
 My research interests focus on CR geometry, differential geometry, and geometric analysis. More specifically, my work focuses on the theory of submanifolds in CR manifolds, as well as related PDE problems and the study of p-mass in CR manifolds.
+
 <!--
 I study equations of the form $\int_0^\infty e^{-2\pi x^2} \, dx$.
 I am also interested in the  groups \\(H_k(\mathcal M_g, \mathbb Q)\\) and 
 $\pi_k(\mathrm{Sym}^\infty \mathcal M^\mathrm{trop}_g)$.
---!>
+-->
 
 ## Research Interests
 
@@ -88,5 +89,5 @@ end
 > God is always doing geometry  
 > -- Plato
 
---!>
+-->
 
