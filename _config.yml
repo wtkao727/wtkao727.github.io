@@ -20,19 +20,19 @@ avatar: ./assets/img/test_photo.jpeg
 
 # Sidebar Links 
 # For those you don't need, delete or comment out the corresponding line.
-cv_link: assets/files/shinchan_sample_cv.pdf
-arxiv: https://arxiv.org/a/0000-0002-0101-0521
-google_scholar: https://scholar.google.com/citations?user=_D7ce2cAAAAJ&sortby=pubdate
-math_overflow: https://mathoverflow.net/users/81295/harry-richman
-github_link: https://github.com/harryrichman
+# cv_link: assets/files/shinchan_sample_cv.pdf
+# arxiv: https://arxiv.org/a/0000-0002-0101-0521
+# google_scholar: https://scholar.google.com/citations?user=_D7ce2cAAAAJ&sortby=pubdate
+# math_overflow: https://mathoverflow.net/users/81295/harry-richman
+# github_link: https://github.com/harryrichman
 # linkedin: https://www.linkedin.com/in/harry-richman/
 # orcid: https://orcid.org/0000-0002-0101-0521
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-description: The academic personal homepage of Gary Fishman.
-keywords: Gary Fishman academic research mathematics
-canonical: https://harryrichman.github.io/minimal-light-academic/
+description: The academic personal homepage of Wei-Ting Kao.
+keywords: Wei-Ting Kao academic research mathematics
+canonical: https://wtkao727.github.io/
 
 
 ############################
