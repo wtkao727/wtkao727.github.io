@@ -4,8 +4,6 @@ layout: homepage
 
 ## About Me
 
-(Constructiong... The following information is just a templete)
-
 I am currently a postdoctoral researcher at the Institute of Mathematics, Academia Sinica (AS), working under the supervision of Professor Jih-Hsin Cheng.
 
 I received my Ph.D. in Mathematics from National Taiwan University (NTU), where I was advised by Professor Jih-Hsin Cheng and Professor I-Hsun Tsai.
