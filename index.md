@@ -20,9 +20,9 @@ $\pi_k(\mathrm{Sym}^\infty \mathcal M^\mathrm{trop}_g)$.
 
 ## Research Interests
 
-- **Tropical geometry:** curves and Jacobians, Weierstrass points
-- **Number theory:** uniform bounds on rational points, Riemann hypothesis
-- **Biology:** evolution of bats
+- **CR geometry:** pseudohermitian mass, the submanifolds theory in pseudohermitian manifolds 
+- **Subriemannian geometric analysis:** subelliptic estimates with some suitable or asymptotical boundary condition
+- **CR ambient space:** ACH space with submanifolds.
 
 <!--## News
 
@@ -43,17 +43,16 @@ $\pi_k(\mathrm{Sym}^\infty \mathcal M^\mathrm{trop}_g)$.
 {% include_relative _includes/notes.html %}
 
 ## Teaching
+(TBD)
 
-I have experience teaching the fundamental theorem of calculus
-\\[ \int_a^b f'(x) \, dx = f(b) - f(a) .\\]
-This is related to the isomorphism
-$\mathrm{Pic}^0(X) \cong H^0(X, \Omega^1)^\vee / H_1(X, \mathbb Z)$
-when $X$ is an algebraic curve.
+**National Taiwan University**
 
-**University of Washington**
+<!--
 
 - [Math 115](https://dept.math.lsa.umich.edu/courses/115/), Calculus 1, Fall 2019
 - [Math 208](https://sites.math.washington.edu/~m208/), Linear Algebra, Fall 2020
+-->
+
 
 <!--
 
