@@ -1,15 +1,16 @@
 <div class="publications notes">
 
-  <ol class="bibliography" style="list-style: decimal; padding: revert;">
+  <ol class="bibliography" style="list-style: decimal; padding: revert;" reversed>
 
     {% for note in site.data.notes.main %}
 
     <li>
       <div class="pub-row">
         <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-          <div class="title">
+          <div class="title" style="font-weight: normal;">
             {% if note.venue %}
-            {{ note.venue }}{% if note.date %}, {{ note.date }}{% endif %}
+            {% assign conference_name = note.venue | split: ', ' | first %}
+            <strong>{{ conference_name }}</strong>{{ note.venue | remove_first: conference_name }}{% if note.date %}, {{ note.date }}{% endif %}
             {% elsif note.date %}
             {{ note.date }}
             {% endif %}
