@@ -10,7 +10,7 @@
           <div class="title" style="font-weight: normal;">
             {% if note.venue %}
             {% assign conference_name = note.venue | split: ', ' | first %}
-            <strong>{{ conference_name }}</strong>{{ note.venue | remove_first: conference_name }}{% if note.date %}, {{ note.date }}{% endif %}
+            <strong style="font-weight: bolder;">{{ conference_name }}</strong>{{ note.venue | remove_first: conference_name }}{% if note.date %}, {{ note.date }}{% endif %}
             {% elsif note.date %}
             {{ note.date }}
             {% endif %}
