@@ -31,20 +31,19 @@ $\pi_k(\mathrm{Sym}^\infty \mathcal M^\mathrm{trop}_g)$.
 -->
 
 ## Publications
-(just templete in the following, TBD)
 
 {% include_relative _includes/publications.html %}
 
 
 
 ## Notes and Presentations
-(just templete in the following, TBD)
 {% include_relative _includes/notes.html %}
 
 ## Teaching
-(TBD)
 
 **National Taiwan University**
+
+- Calculus, September 2026 – March 2027
 
 <!--
 

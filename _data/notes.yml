@@ -1,18 +1,17 @@
 main:
 
-  - title: Vector encoding of phylogenetic trees
-    date: September 2024
-    poster: ./assets/files/ola_code_poster.pdf
-    slides: ./assets/files/ola_code_slides.pdf
+  - title: A Reilly-Type Inequality for CR Dirac Operators on CR Manifolds and Applications
+    date: June 22–26, 2026
+    venue: PIMS-NCTS Workshop in Geometric Analysis, Vancouver, Canada
 
-  - title: Ricci curvature on graphs
-    date: January 2024
-    venue: JMM San Francisco
-    slides: ./assets/files/ricci_flow_slides.pdf
-    image: ./assets/img/ricci_flow_thumb.png
+  - title: The regularity of singular Yamabe metric on CR Manifolds and CR invariants for hypersurfaces
+    date: November 2–5, 2025
+    venue: The 5th Japan-Taiwan Joint Conference on Differential Geometry, Takamatsu City, Japan
 
-  - title: Matchings in convergent graph sequences
-    date: March 2017
-    pdf: ./assets/files/matchings_convergent_notes.pdf
+  - title: The Existence of the Solution of the Singular Yamabe Equation on CR Manifolds and its Asymptotic Behavior near Boundary
+    date: October 5, 2023
+    venue: NCTS Differential Geometry Seminar, Taipei, Taiwan
 
-    
+  - title: The variation formula of the p-mass on three dimensional compact CR manifolds embedded in $C^2$
+    date: January 14–17, 2020
+    venue: East Asian Core Doctoral Forum on Mathematics 2020, Tokyo, Japan
