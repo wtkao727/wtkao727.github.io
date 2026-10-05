@@ -1,32 +1,20 @@
-<div class="notes">
+<div class="publications notes">
 
-  {% if site.enable_notes_thumbnails %}
-  <ul class="notes_list" style="list-style: none; padding: 0; margin-top: 0;">
-  {% else %}
-  <ul class="notes_list">
-  {% endif %}
+  <ol class="bibliography" style="list-style: decimal; padding: revert;">
 
     {% for note in site.data.notes.main %}
 
     <li>
-      <div class="note-row">
-        {% if site.enable_notes_thumbnails %}
-        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-          {% if note.image %}
-          <img src="{{ note.image }}" class="teaser img-fluid z-depth-1">
-          {% else %}
-          <div class="teaser" style="box-shadow: none;">
-          </div>
-          {% endif %}
-        </div>
-        {% endif %}
+      <div class="pub-row">
         <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
           <div class="title">
             {% if note.venue %}
-            {{ note.venue }}{% if note.date %}, {{ note.date }}{% endif %}<br>
+            {{ note.venue }}{% if note.date %}, {{ note.date }}{% endif %}
             {% elsif note.date %}
-            {{ note.date }}<br>
+            {{ note.date }}
             {% endif %}
+          </div>
+          <div class="author">
             {% if note.link %}
             <a href="{{ note.link }}">{{ note.title }}</a>
             {% else %}
@@ -74,5 +62,5 @@
 
     {% endfor %}
 
-  </ul>
+  </ol>
 </div>
