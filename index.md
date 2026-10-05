@@ -30,7 +30,7 @@ $\pi_k(\mathrm{Sym}^\infty \mathcal M^\mathrm{trop}_g)$.
 - **[Mar. 2019]** Graduated from Univeristy of Washington with bachelors degree.
 -->
 
-## Publications
+## Publications and Preprint
 
 {% include_relative _includes/publications.html %}
 
