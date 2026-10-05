@@ -22,16 +22,15 @@
         {% endif %}
         <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
           <div class="title">
+            {% if note.venue %}
+            {{ note.venue }}{% if note.date %}, {{ note.date }}{% endif %}<br>
+            {% elsif note.date %}
+            {{ note.date }}<br>
+            {% endif %}
             {% if note.link %}
             <a href="{{ note.link }}">{{ note.title }}</a>
             {% else %}
             {{ note.title }}
-            {% endif %}
-            {% if note.venue %}
-            &ZeroWidthSpace;, {{ note.venue }}
-            {% endif %}
-            {% if note.date %}
-            &ZeroWidthSpace;, {{ note.date }}
             {% endif %}
           </div>
           <!-- <div class="author">{{ note.authors }}</div>
