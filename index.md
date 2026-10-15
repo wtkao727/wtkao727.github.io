@@ -43,7 +43,7 @@ $\pi_k(\mathrm{Sym}^\infty \mathcal M^\mathrm{trop}_g)$.
 
 **National Taiwan University**
 
-- Calculus, September 2026 – March 2027
+- Calculus, September 2026 – April 2027
 
 <!--
 
